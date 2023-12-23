@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jordan-julio" alt="jordan-julio" /></a> </p>
 
-- 🔭 I’m currently working on [my portfolio](jj-portfolio.vercel.app)
+- 🔭 I’m currently working on [web portfolio using NextJS](jj-portfolio.vercel.app)
 
 - 🌱 I’m currently learning **Cyber Security and ThreeJS**
 
