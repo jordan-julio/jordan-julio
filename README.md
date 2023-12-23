@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **jordan.julio.jap@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/jordan-julio-jap-370331189](https://www.linkedin.com/in/jordan-julio-jap-370331189)
+- 📄 Know about my experiences [Go To My LinkedIn Profile](https://www.linkedin.com/in/jordan-julio-jap-370331189)
 
 - ⚡ Fun fact **I like basketball and frequently watch Kdramas**
 
