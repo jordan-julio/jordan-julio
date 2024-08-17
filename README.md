@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [web portfolio using NextJS](jj-portfolio.vercel.app)
 
-- 🌱 I’m currently learning **Cyber Security and ThreeJS**
+- 🌱 I’m currently learning **Game Development**
 
 - 👨‍💻 All of my projects are available at [jj-portfolio.vercel.app](jj-portfolio.vercel.app)
 
