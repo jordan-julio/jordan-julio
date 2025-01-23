@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jordan</h1>
-<h3 align="center">A passionate Software Engineer from Indonesia, pursuing Computer Science degree in University Of New South Wales (UNSW)</h3>
+<h3 align="center">A passionate Software Engineer from Indonesia, and a Computer Science Graduate in University Of New South Wales (UNSW)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jordan-julio&label=Profile%20views&color=590ce9&style=flat" alt="jordan-julio" /> </p>
 
